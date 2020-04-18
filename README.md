@@ -8,7 +8,9 @@ TODO
     - Surface matériau https://www.toutcalculer.com/geometrie/volume-surface-sphere.php
     - vide https://www.youtube.com/watch?v=rVAHatP47lg
     - composit https://www.youtube.com/watch?v=tUrGZMB4WHY
+    
       https://www.epoxyresolutions.com/technologies/materiaux-composites-definitions/
+      
       Masse volumique = 2 à 2,1 kg/dm3
 Contrainte rupture traction sens longitudinal = 12 dN/mm²
 Contrainte rupture traction sens circonférentiel = 70 dN/mm²
