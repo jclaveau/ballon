@@ -6,3 +6,4 @@ TODO
   - Calculs force https://www.deleze.name/marcel/physique/aerostat/helium/index.html
   - Surface matériau https://www.toutcalculer.com/geometrie/volume-surface-sphere.php
 + Reglementation
+  - https://forums.futura-sciences.com/astronautique/70616-ballon-sonde.html
