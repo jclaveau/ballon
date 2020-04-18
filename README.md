@@ -7,6 +7,7 @@ TODO
     - Calculs force https://www.deleze.name/marcel/physique/aerostat/helium/index.html
     - Surface matériau https://www.toutcalculer.com/geometrie/volume-surface-sphere.php
     - vide https://www.youtube.com/watch?v=rVAHatP47lg
+    - composit https://www.youtube.com/watch?v=tUrGZMB4WHY
   + Nacelle
     - Altimetre https://forum.arduino.cc/index.php?topic=205097.0
     - GPS https://lecafedugeek.fr/arduino-creer-votre-propre-compteur-gps/
