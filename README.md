@@ -13,5 +13,6 @@ TODO
     - Radio 
       https://fr.wikipedia.org/wiki/Ultra_haute_fr%C3%A9quence#Utilisations
       https://inductivetwig.com/products/hamshield-mini
+    - Alimentation https://www.asca.com/
 + Reglementation
   - https://forums.futura-sciences.com/astronautique/70616-ballon-sonde.html
