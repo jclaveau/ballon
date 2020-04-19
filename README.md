@@ -28,5 +28,6 @@ Module d’élasticité en flexion = 1500 dN/mm²
     - Alimentation https://www.asca.com/cellule-solaire-souple-transparente/
   
   + Bonus ? https://makezine.com/projects/ionic-thruster/
+    http://everything.explained.today/Ion_thruster/
 + Reglementation
   - https://forums.futura-sciences.com/astronautique/70616-ballon-sonde.html
