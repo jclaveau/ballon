@@ -26,5 +26,7 @@ Module d’élasticité en flexion = 1500 dN/mm²
       https://fr.wikipedia.org/wiki/Ultra_haute_fr%C3%A9quence#Utilisations
       https://inductivetwig.com/products/hamshield-mini
     - Alimentation https://www.asca.com/cellule-solaire-souple-transparente/
+  
+  + Bonus ? https://makezine.com/projects/ionic-thruster/
 + Reglementation
   - https://forums.futura-sciences.com/astronautique/70616-ballon-sonde.html
