@@ -23,7 +23,7 @@ Module d’élasticité en flexion = 1500 dN/mm²
 
       choix refort https://www.youtube.com/watch?v=ioj1YBm6bJY
       sphere carbone / economie max d'epoxy https://www.youtube.com/watch?v=g7pziJ8tUSY https://www.youtube.com/watch?v=VodfQcrXpxc
-
+      epoxy moussante https://www.sf-composites.com/ProductCard/RES2080MB%25252F4/resine-epoxy-moussant-2080-5kg
   + Nacelle
     - Altimetre https://forum.arduino.cc/index.php?topic=205097.0
     - GPS https://lecafedugeek.fr/arduino-creer-votre-propre-compteur-gps/
