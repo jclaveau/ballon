@@ -22,6 +22,7 @@ Module d’élasticité sens circonférentiel = 3500 daN/mm²
 Module d’élasticité en flexion = 1500 dN/mm²
 
       choix refort https://www.youtube.com/watch?v=ioj1YBm6bJY
+      sphere carbone / economie max d'epoxy https://www.youtube.com/watch?v=g7pziJ8tUSY
 
   + Nacelle
     - Altimetre https://forum.arduino.cc/index.php?topic=205097.0
