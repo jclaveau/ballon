@@ -21,6 +21,8 @@ Contrainte rupture en flexion = 10 dN/mm²
 Module d’élasticité sens circonférentiel = 3500 daN/mm²
 Module d’élasticité en flexion = 1500 dN/mm²
 
+      choix refort https://www.youtube.com/watch?v=ioj1YBm6bJY
+
   + Nacelle
     - Altimetre https://forum.arduino.cc/index.php?topic=205097.0
     - GPS https://lecafedugeek.fr/arduino-creer-votre-propre-compteur-gps/
