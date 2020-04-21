@@ -24,6 +24,8 @@ Module d’élasticité en flexion = 1500 dN/mm²
       epoxy moussante https://www.sf-composites.com/ProductCard/RES2080MB%25252F4/resine-epoxy-moussant-2080-5kg
       
       mylar pas cher https://www.cdiscount.com/maison/decoration-accessoires/ballon-en-feuille-ballons-mylar-de-18-pouces-pour/f-117634605-vol6437913247163.html
+      
+      design chambre a vide http://edge.rit.edu/edge/P14651/public/Miscellaneous/Design%20rules%20for%20vacuum%20chambers.pdf
   + Nacelle
     - Altimetre https://forum.arduino.cc/index.php?topic=205097.0
     - GPS https://lecafedugeek.fr/arduino-creer-votre-propre-compteur-gps/
