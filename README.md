@@ -19,6 +19,7 @@ Module d’élasticité sens circonférentiel = 3500 daN/mm²
 Module d’élasticité en flexion = 1500 dN/mm²
 
       choix refort https://www.youtube.com/watch?v=ioj1YBm6bJY
+      fibre de verre vs carbone vs kevlar https://www.youtube.com/watch?v=KHXVf0SaJpA
       sphere carbone / economie max d'epoxy https://www.youtube.com/watch?v=g7pziJ8tUSY https://www.youtube.com/watch?v=VodfQcrXpxc
       epoxy moussante https://www.sf-composites.com/ProductCard/RES2080MB%25252F4/resine-epoxy-moussant-2080-5kg
       
