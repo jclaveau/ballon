@@ -6,11 +6,8 @@ TODO
   + Ballon
     - Calculs force https://www.deleze.name/marcel/physique/aerostat/helium/index.html
     - Surface matériau https://www.toutcalculer.com/geometrie/volume-surface-sphere.php
-    - vide https://www.youtube.com/watch?v=rVAHatP47lg
+    - vide https://github.com/jclaveau/ballon/issues/3
     - composit https://www.youtube.com/watch?v=tUrGZMB4WHY
-      
-      https://www.youtube.com/watch?v=BeiW_37rS-U
-
     
       https://www.epoxyresolutions.com/technologies/materiaux-composites-definitions/
       
